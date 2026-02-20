@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **4th-year Computer Engineering student** at Haliç University with a 50% OSYM scholarship.
+- 🎓 **4th-year Computer Engineering student** at Haliç University.
 - 🛡️ Passionate about **Cybersecurity**, vulnerability analysis, and the defense industry.
 - 🐍 Developing automation and AI-driven projects using **Python**.
 - 💻 Experienced in **Linux** environments and technical documentation.
